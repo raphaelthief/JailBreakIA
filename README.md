@@ -34,10 +34,10 @@ Many people in the professional world believe that AI without ethical systems fo
 
 ## Exemples
 
-![BlackHatCoder](https://github.com/raphaelthief/JailBreakIA/Pictures/BlackHatCoder.JPG "BlackHatCoder")
+![BlackHatCoder](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/BlackHatCoder.JPG "BlackHatCoder")
 
-![HackerMAN](https://github.com/raphaelthief/JailBreakIA/Pictures/HackerMAN.JPG "HackerMAN")
+![HackerMAN](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/HackerMAN.JPG "HackerMAN")
 
-![SexyANA](https://github.com/raphaelthief/JailBreakIA/Pictures/SexyANA.JPG "SexyANA")
+![SexyANA](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/SexyANA.JPG "SexyANA")
 
-![Vulgaire](https://github.com/raphaelthief/JailBreakIA/Pictures/Vulgaire.JPG "Vulgaire")
+![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/Vulgaire.JPG "Vulgaire")
