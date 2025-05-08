@@ -41,3 +41,9 @@ Many people in the professional world believe that AI without ethical systems fo
 ![SexyANA](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/SexyANA.JPG "SexyANA")
 
 ![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/Vulgaire.JPG "Vulgaire")
+
+Image prompt generated :
+
+![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtrxvtb6f6tb935hj9rb5f77_1746740920_img_0.webp)
+![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtrxvtb6f6tb935hj9rb5f77_1746740920_img_1.webp)
+![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtrxvtb6f6tb935hj9rb5f77_1746740920_img_2.webp)
