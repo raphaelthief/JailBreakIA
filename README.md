@@ -48,4 +48,4 @@ Image prompt generated :
 ![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtrxvtb6f6tb935hj9rb5f77_1746740920_img_1.webp)
 ![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtrxvtb6f6tb935hj9rb5f77_1746740920_img_2.webp)
 ![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtryv6q5fvd9658b5zpy0909_1746741894_img_1.webp)
-![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtrxvtb6f6tb935hj9rb5f77_1746740920_img_2.webp)
+![Vulgaire](https://github.com/raphaelthief/JailBreakIA/blob/main/Pictures/assets_task_01jtryv6q5fvd9658b5zpy0909_1746741894_img_2.webp)
